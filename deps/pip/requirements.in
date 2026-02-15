@@ -7,4 +7,5 @@
 # resolved automatically when regenerating requirements.txt.
 
 awscli
+olot
 
